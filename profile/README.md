@@ -1,4 +1,4 @@
-## Hi there 👋
+## Gard.al'dan Selamlar 👋
 
 <!--
 
